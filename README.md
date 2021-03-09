@@ -1,3 +1,5 @@
 # Intern-Works
 
-Face Recognition using WebCam
+#Face Recognition using WebCam#
+
+- opencv library is used.
